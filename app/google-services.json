@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "830376378578",
+    "project_id": "fireappmaps-bde7b",
+    "storage_bucket": "fireappmaps-bde7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830376378578:android:16457f8aa1411c53726d0b",
+        "android_client_info": {
+          "package_name": "com.example.googlemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830376378578-om01si3usqv8jd6g6dif2b4qu1k41gkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn4f2wZGq1phUSllapP-sd9YKgAKQRv1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830376378578-om01si3usqv8jd6g6dif2b4qu1k41gkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
